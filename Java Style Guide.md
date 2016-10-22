@@ -281,7 +281,7 @@ switch (numDots)	{
 #### Comments
 Use /* */ for multiline comments. Use // comments to clear confusion, but on their own line (unless the statement is very simple like basic getters and setters).
 
-Use javadoc comments for all public methods and classes, and for private ones when necessary. Every file should have an initial javadoc comment before the import statements.
+Use javadoc comments for all public methods and classes, and for private ones when necessary. Every file should have an initial javadoc comment immediately before the class definition.
 ```java
 /**
  * Finds the factorial of passed num recursively.
