@@ -13,7 +13,7 @@ import java.io.BufferedWriter;
 import java.io.IOException;
 ```
 
-**One top-level class per file**. Nested classes are okay, but other than that, each class should be in its own .class file. If you're finding it hard to switch between files, considering using a more competent text editor (I recommend sublimetext).
+**One top-level class per file**. Nested classes are okay, but other than that, each class should be in its own .java file. If you're finding it hard to switch between files, considering using a more competent text editor (I recommend sublimetext).
 
 Class names should be in UpperCamelCase.
 
